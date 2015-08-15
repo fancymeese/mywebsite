@@ -10,9 +10,6 @@
 }
 #LetterBar {
     text-align: center;
-    background: teal;
-    color:yellow;
+    color:teal;
 
 }
-#my-button::shadow paper-ripple {
-    color: blue;
